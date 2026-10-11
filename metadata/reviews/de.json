@@ -23832,5 +23832,17 @@
     "translation": "9e0bf93e1aae200dcdca0973086a368289b0c01a23e1848be7f1d9bf131284ba",
     "author": "Xavier Larrea",
     "ownerAuthored": true
+  },
+  "screensaverWakeSourcePowerHintDoubleTap": {
+    "source": "c31707c2f9a83bd92a76c8dcfb8eb46bb289c4e64c2af2a30ca3dfc1cdc8bad5",
+    "translation": "e4c484584a4ddf63935dab986d8e4ab9e65ce0163846c893b5e0dbb457834cba",
+    "author": "Xavier Larrea",
+    "ownerAuthored": true
+  },
+  "screensaverWakeSourceTouchHintSecond": {
+    "source": "84f4e398683b1af161d1b7b4e3be7e28732290dca34ecf68168d16a30454da23",
+    "translation": "da7519d492a83cfc159d0c8aa35d0da6c6f1767144c5110e227ec2890faa0812",
+    "author": "Xavier Larrea",
+    "ownerAuthored": true
   }
 }

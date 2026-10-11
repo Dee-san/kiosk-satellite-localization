@@ -390,10 +390,10 @@
       ]
     }
   },
-  "screensaverWakeSourcePowerHint": "Also double-tap to wake and other wakes Kiosk Satellite did not start.",
-  "@screensaverWakeSourcePowerHint": {
+  "screensaverWakeSourcePowerHintDoubleTap": "Includes double-tap to wake.",
+  "@screensaverWakeSourcePowerHintDoubleTap": {
     "context": "Settings:Screensaver:Wake to screensaver",
-    "description": "Hint under the Power button choice. Kiosk Satellite is the app name and stays as is.",
+    "description": "Hint under the Power button choice: tapping the screen twice to wake it counts as the power button.",
     "x-locations": {
       "device": [
         "Settings > Screensaver"
@@ -416,23 +416,10 @@
       ]
     }
   },
-  "screensaverWakeSourceTouchHint": "Only with Use a black screen instead. A second touch opens the dashboard.",
-  "@screensaverWakeSourceTouchHint": {
+  "screensaverWakeSourceTouchHintSecond": "A second touch opens the dashboard.",
+  "@screensaverWakeSourceTouchHintSecond": {
     "context": "Settings:Screensaver:Wake to screensaver",
-    "description": "Hint under the Touch choice. Use a black screen instead is the name of another setting.",
-    "x-locations": {
-      "device": [
-        "Settings > Screensaver"
-      ],
-      "remoteAdmin": [
-        "Screensaver"
-      ]
-    }
-  },
-  "screensaverWakeSourcesNote": "Motion, face, proximity and person also need their Dismiss switch on.",
-  "@screensaverWakeSourcesNote": {
-    "context": "Settings:Screensaver:Wake to screensaver",
-    "description": "Note at the top of the Wake to screensaver dialog. Dismiss refers to the Dismiss on motion, face, proximity and person switches.",
+    "description": "Hint under the Touch choice: after a touch brings the screensaver back, another touch opens the dashboard.",
     "x-locations": {
       "device": [
         "Settings > Screensaver"
