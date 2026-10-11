@@ -30,7 +30,6 @@
   "screensaverWakeSourceProximity": "Proximité",
   "screensaverWakeSourcePerson": "Présence",
   "screensaverWakeSourcePower": "Bouton d'alimentation",
-  "screensaverWakeSourcePowerHintDoubleTap": "Inclut le double appui pour réveiller.",
   "screensaverWakeSourceTouch": "Toucher",
   "screensaverWakeSourceTouchHintSecond": "Un second toucher ouvre le tableau de bord.",
   "screensaverModeDim": "Tamisé",

@@ -30,7 +30,6 @@
   "screensaverWakeSourceProximity": "Nabijheid",
   "screensaverWakeSourcePerson": "Persoon",
   "screensaverWakeSourcePower": "Aan/uit-knop",
-  "screensaverWakeSourcePowerHintDoubleTap": "Inclusief dubbeltikken om te activeren.",
   "screensaverWakeSourceTouch": "Aanraken",
   "screensaverWakeSourceTouchHintSecond": "Een tweede aanraking opent het dashboard.",
   "screensaverModeDim": "Dimmen",

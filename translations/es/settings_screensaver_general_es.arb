@@ -30,7 +30,6 @@
   "screensaverWakeSourceProximity": "Proximidad",
   "screensaverWakeSourcePerson": "Persona",
   "screensaverWakeSourcePower": "Botón de encendido",
-  "screensaverWakeSourcePowerHintDoubleTap": "Incluye tocar dos veces para activar.",
   "screensaverWakeSourceTouch": "Tocar",
   "screensaverWakeSourceTouchHintSecond": "Un segundo toque abre el panel de control.",
   "screensaverModeDim": "Atenuar",

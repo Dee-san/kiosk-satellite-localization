@@ -30,7 +30,6 @@
   "screensaverWakeSourceProximity": "Наближення",
   "screensaverWakeSourcePerson": "Людина",
   "screensaverWakeSourcePower": "Кнопка живлення",
-  "screensaverWakeSourcePowerHintDoubleTap": "Зокрема подвійний дотик для пробудження.",
   "screensaverWakeSourceTouch": "Дотик",
   "screensaverWakeSourceTouchHintSecond": "Другий дотик відкриває панель.",
   "screensaverModeDim": "Затемнення",

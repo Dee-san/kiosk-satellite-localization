@@ -30,7 +30,6 @@
   "screensaverWakeSourceProximity": "接近",
   "screensaverWakeSourcePerson": "人体",
   "screensaverWakeSourcePower": "电源键",
-  "screensaverWakeSourcePowerHintDoubleTap": "包括双击唤醒。",
   "screensaverWakeSourceTouch": "触屏",
   "screensaverWakeSourceTouchHintSecond": "再次触屏会打开仪表盘。",
   "screensaverModeDim": "调暗",

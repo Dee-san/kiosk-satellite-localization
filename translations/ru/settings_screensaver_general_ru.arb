@@ -30,7 +30,6 @@
   "screensaverWakeSourceProximity": "Близость",
   "screensaverWakeSourcePerson": "Присутствие",
   "screensaverWakeSourcePower": "Кнопка питания",
-  "screensaverWakeSourcePowerHintDoubleTap": "Включая двойное касание для пробуждения.",
   "screensaverWakeSourceTouch": "Касание",
   "screensaverWakeSourceTouchHintSecond": "Второе касание открывает панель.",
   "screensaverModeDim": "Затемнение",

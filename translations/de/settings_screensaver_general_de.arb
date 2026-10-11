@@ -30,7 +30,6 @@
   "screensaverWakeSourceProximity": "Annäherung",
   "screensaverWakeSourcePerson": "Person",
   "screensaverWakeSourcePower": "Ein/Aus-Taste",
-  "screensaverWakeSourcePowerHintDoubleTap": "Einschließlich Doppeltippen zum Aktivieren.",
   "screensaverWakeSourceTouch": "Berührung",
   "screensaverWakeSourceTouchHintSecond": "Eine zweite Berührung öffnet das Dashboard.",
   "screensaverModeDim": "Dimmen",

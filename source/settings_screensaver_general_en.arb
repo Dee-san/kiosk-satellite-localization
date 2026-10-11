@@ -390,19 +390,6 @@
       ]
     }
   },
-  "screensaverWakeSourcePowerHintDoubleTap": "Includes double-tap to wake.",
-  "@screensaverWakeSourcePowerHintDoubleTap": {
-    "context": "Settings:Screensaver:Wake to screensaver",
-    "description": "Hint under the Power button choice: tapping the screen twice to wake it counts as the power button.",
-    "x-locations": {
-      "device": [
-        "Settings > Screensaver"
-      ],
-      "remoteAdmin": [
-        "Screensaver"
-      ]
-    }
-  },
   "screensaverWakeSourceTouch": "Touch",
   "@screensaverWakeSourceTouch": {
     "context": "Settings:Screensaver:Wake to screensaver",
