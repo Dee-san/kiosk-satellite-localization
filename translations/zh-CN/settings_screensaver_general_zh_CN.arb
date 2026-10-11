@@ -31,7 +31,6 @@
   "screensaverWakeSourcePerson": "人体",
   "screensaverWakeSourcePower": "电源键",
   "screensaverWakeSourceTouch": "触屏",
-  "screensaverWakeSourceTouchHintSecond": "再次触屏会打开仪表盘。",
   "screensaverModeDim": "调暗",
   "screensaverModeBlack": "黑屏",
   "screensaverModeClock": "时钟",

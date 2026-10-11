@@ -403,19 +403,6 @@
       ]
     }
   },
-  "screensaverWakeSourceTouchHintSecond": "A second touch opens the dashboard.",
-  "@screensaverWakeSourceTouchHintSecond": {
-    "context": "Settings:Screensaver:Wake to screensaver",
-    "description": "Hint under the Touch choice: after a touch brings the screensaver back, another touch opens the dashboard.",
-    "x-locations": {
-      "device": [
-        "Settings > Screensaver"
-      ],
-      "remoteAdmin": [
-        "Screensaver"
-      ]
-    }
-  },
   "screensaverModeDim": "Dim",
   "@screensaverModeDim": {
     "context": "Settings:Screensaver",

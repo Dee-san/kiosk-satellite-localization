@@ -31,7 +31,6 @@
   "screensaverWakeSourcePerson": "Person",
   "screensaverWakeSourcePower": "Ein/Aus-Taste",
   "screensaverWakeSourceTouch": "Berührung",
-  "screensaverWakeSourceTouchHintSecond": "Eine zweite Berührung öffnet das Dashboard.",
   "screensaverModeDim": "Dimmen",
   "screensaverModeBlack": "Schwarz",
   "screensaverModeClock": "Uhr",

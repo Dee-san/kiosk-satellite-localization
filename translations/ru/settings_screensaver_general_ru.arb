@@ -31,7 +31,6 @@
   "screensaverWakeSourcePerson": "Присутствие",
   "screensaverWakeSourcePower": "Кнопка питания",
   "screensaverWakeSourceTouch": "Касание",
-  "screensaverWakeSourceTouchHintSecond": "Второе касание открывает панель.",
   "screensaverModeDim": "Затемнение",
   "screensaverModeBlack": "Чёрная",
   "screensaverModeClock": "Часы",

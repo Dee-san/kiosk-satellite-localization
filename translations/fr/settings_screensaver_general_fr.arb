@@ -31,7 +31,6 @@
   "screensaverWakeSourcePerson": "Présence",
   "screensaverWakeSourcePower": "Bouton d'alimentation",
   "screensaverWakeSourceTouch": "Toucher",
-  "screensaverWakeSourceTouchHintSecond": "Un second toucher ouvre le tableau de bord.",
   "screensaverModeDim": "Tamisé",
   "screensaverModeBlack": "Noir",
   "screensaverModeClock": "Horloge",

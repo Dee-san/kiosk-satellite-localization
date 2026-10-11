@@ -4,6 +4,8 @@ Notable changes to Kiosk Satellite Localization are listed below, newest first. 
 
 ## History
 
+- Remove the Touch hint under Wake to screensaver from every language. The app no longer shows it.
+
 - Remove the Power button hint under Wake to screensaver from every language. The app no longer shows it.
 
 - Reword the Power button and Touch hints under Wake to screensaver in Spanish, German, French, Ukrainian, Dutch, Simplified Chinese and Russian. The German, French, Ukrainian, Dutch, Simplified Chinese and Russian messages are maintainer additions. Remove the previous hints and the dialog's note about the Dismiss switches from every language. The app no longer shows them.
