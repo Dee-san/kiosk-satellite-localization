@@ -4,6 +4,8 @@ Notable changes to Kiosk Satellite Localization are listed below, newest first. 
 
 ## History
 
+- Add the reworded Custom Pages hint in Spanish, German, French, Ukrainian, Dutch, Simplified Chinese and Russian. The German, French, Ukrainian, Dutch, Simplified Chinese and Russian messages are maintainer additions. Remove the previous hint from every language. The app no longer shows it.
+
 - Add Custom Pages in Spanish, German, French, Ukrainian, Dutch, Simplified Chinese and Russian: the page and its hint, Add page, the empty note, the custom page guide, the add and edit dialog with its Name and Path fields and its errors, the page counts in the dashboard picker and the update filter's note for custom pages in Optimizations and on the Overview. The German, French, Ukrainian, Dutch, Simplified Chinese and Russian messages are maintainer additions.
 
 - Add the File Manager's multiple file upload progress and the uploaded files count in Spanish, German, French, Ukrainian, Dutch, Simplified Chinese and Russian. The German, French, Ukrainian, Dutch, Simplified Chinese and Russian messages are maintainer additions.
