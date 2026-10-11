@@ -4,6 +4,8 @@ Notable changes to Kiosk Satellite Localization are listed below, newest first. 
 
 ## History
 
+- Add Wake to screensaver's choices in Spanish, German, French, Ukrainian, Dutch, Simplified Chinese and Russian: the reworded hint, the All value, Motion, Face, Proximity, Person, Power button and Touch with their hints and the dialog's note about the Dismiss switches. The German, French, Ukrainian, Dutch, Simplified Chinese and Russian messages are maintainer additions. Remove the previous hint from every language. The app no longer shows it.
+
 - Add the metadata settings of the Home Assistant Media and Local Media screensavers in Spanish, German, French, Ukrainian, Dutch, Simplified Chinese and Russian: each page's metadata heading, Show metadata with its hint, and Date taken, Camera details, Metadata position, Text drop shadow, Text scaling and Vignette strength with their hints, which carry the Immich Media page's reviewed wording. The German, French, Ukrainian, Dutch, Simplified Chinese and Russian messages are maintainer additions. Replace both pages' hints with ones that name metadata and remove the previous hints from every language. The app no longer shows them.
 
 - Add the reworded Wake to screensaver hint, which now names the power button, in Spanish, German, French, Ukrainian, Dutch, Simplified Chinese and Russian. The German, French, Ukrainian, Dutch, Simplified Chinese and Russian messages are maintainer additions. Remove the previous hint from every language. The app no longer shows it.
