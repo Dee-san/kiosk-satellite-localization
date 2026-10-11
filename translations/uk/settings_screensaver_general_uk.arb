@@ -31,6 +31,7 @@
   "screensaverWakeSourcePerson": "Людина",
   "screensaverWakeSourcePower": "Кнопка живлення",
   "screensaverWakeSourceTouch": "Дотик",
+  "screensaverWakeSourceTouchRequires": "Потрібні обидва параметри: «Вимкнути екран через» і «Використовувати чорний екран замість вимкнення».",
   "screensaverModeDim": "Затемнення",
   "screensaverModeBlack": "Чорний",
   "screensaverModeClock": "Годинник",

@@ -31,6 +31,7 @@
   "screensaverWakeSourcePerson": "Присутствие",
   "screensaverWakeSourcePower": "Кнопка питания",
   "screensaverWakeSourceTouch": "Касание",
+  "screensaverWakeSourceTouchRequires": "Требует и «Выключать экран через», и «Использовать чёрный экран вместо этого».",
   "screensaverModeDim": "Затемнение",
   "screensaverModeBlack": "Чёрная",
   "screensaverModeClock": "Часы",

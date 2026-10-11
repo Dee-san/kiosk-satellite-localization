@@ -31,6 +31,7 @@
   "screensaverWakeSourcePerson": "Persona",
   "screensaverWakeSourcePower": "Botón de encendido",
   "screensaverWakeSourceTouch": "Tocar",
+  "screensaverWakeSourceTouchRequires": "Requiere tanto \"Apagar la pantalla después de\" como \"Usar una pantalla negra en su lugar\".",
   "screensaverModeDim": "Atenuar",
   "screensaverModeBlack": "Negro",
   "screensaverModeClock": "Reloj",

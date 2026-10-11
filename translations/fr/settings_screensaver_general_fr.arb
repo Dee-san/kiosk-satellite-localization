@@ -31,6 +31,7 @@
   "screensaverWakeSourcePerson": "Présence",
   "screensaverWakeSourcePower": "Bouton d'alimentation",
   "screensaverWakeSourceTouch": "Toucher",
+  "screensaverWakeSourceTouchRequires": "Nécessite à la fois « Éteindre l'écran après » et « Utiliser un écran noir à la place ».",
   "screensaverModeDim": "Tamisé",
   "screensaverModeBlack": "Noir",
   "screensaverModeClock": "Horloge",

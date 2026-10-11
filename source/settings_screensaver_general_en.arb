@@ -403,6 +403,19 @@
       ]
     }
   },
+  "screensaverWakeSourceTouchRequires": "Requires both \"Turn screen off after\" and \"Use a black screen instead.\"",
+  "@screensaverWakeSourceTouchRequires": {
+    "context": "Settings:Screensaver:Wake to screensaver",
+    "description": "Hint under the grayed-out Touch choice in the Wake to screensaver dialog. Both quoted names are other settings on the same page.",
+    "x-locations": {
+      "device": [
+        "Settings > Screensaver"
+      ],
+      "remoteAdmin": [
+        "Screensaver"
+      ]
+    }
+  },
   "screensaverModeDim": "Dim",
   "@screensaverModeDim": {
     "context": "Settings:Screensaver",

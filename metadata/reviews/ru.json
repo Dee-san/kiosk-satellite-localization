@@ -24075,5 +24075,11 @@
     "translation": "6ed529e321503a871e271c43d9e8445a9a241fd25f04e1547470855f4e4b2d2a",
     "author": "Xavier Larrea",
     "ownerAuthored": true
+  },
+  "screensaverWakeSourceTouchRequires": {
+    "source": "dcb7ac0a665ff3bcb0ea27a24574d336f104a4a2d157a70380915d2d6ce891a9",
+    "translation": "823e923dc192767e25f1ef568bcb7a6b106adc797239c747e57753767484b1fd",
+    "author": "Xavier Larrea",
+    "ownerAuthored": true
   }
 }

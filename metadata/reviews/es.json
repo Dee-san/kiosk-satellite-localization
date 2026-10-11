@@ -19678,5 +19678,10 @@
     "source": "c31707c2f9a83bd92a76c8dcfb8eb46bb289c4e64c2af2a30ca3dfc1cdc8bad5",
     "translation": "ca864b6531643b05ae4d614507ce501b19163b8f0e95d95fe50a3cfe0046ba7e",
     "author": "Xavier Larrea"
+  },
+  "screensaverWakeSourceTouchRequires": {
+    "source": "dcb7ac0a665ff3bcb0ea27a24574d336f104a4a2d157a70380915d2d6ce891a9",
+    "translation": "8adf4843d7a3139d8f542a5a047de0cc380b32c0686dfc895fe4214e0f76a83d",
+    "author": "Xavier Larrea"
   }
 }
