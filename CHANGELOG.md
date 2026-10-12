@@ -4,6 +4,8 @@ Notable changes to Kiosk Satellite Localization are listed below, newest first. 
 
 ## History
 
+- Add the External Motion Sensor group on the Motion Sensor page in Spanish, German, French, Ukrainian, Dutch, Simplified Chinese and Russian: its heading, Use Home Assistant entity and Motion sensor entity with their hints. The German, French, Ukrainian, Dutch, Simplified Chinese and Russian messages are maintainer additions.
+
 - Add Show password and Hide password, the tooltips of the button that shows what is typed into a plugin's secret setting, in Spanish, German, French, Ukrainian, Dutch, Simplified Chinese and Russian. The German, French, Ukrainian, Dutch, Simplified Chinese and Russian messages are maintainer additions.
 
 - Add Admin URL under Remote Administration in Spanish, German, French, Ukrainian, Dutch, Simplified Chinese and Russian: the setting, its hint and its two error messages. The German, French, Ukrainian, Dutch, Simplified Chinese and Russian messages are maintainer additions.
