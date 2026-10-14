@@ -4,6 +4,8 @@ Notable changes to Kiosk Satellite Localization are listed below, newest first. 
 
 ## History
 
+- Replace Horizontal mode on the Now Playing page with Layout mode in Spanish, German, French, Ukrainian, Dutch, Simplified Chinese and Russian: the setting, its hint and its Vertical, Horizontal and Centered choices. Horizontal mode and its hint are removed from every language. The German, French, Ukrainian, Dutch, Simplified Chinese and Russian messages are maintainer additions.
+
 - Add Filter the speaker selection pill on the Now Playing page in Spanish, German, French, Ukrainian, Dutch, Simplified Chinese and Russian: the setting, its hint and All speakers, shown when no speaker is picked. The German, French, Ukrainian, Dutch, Simplified Chinese and Russian messages are maintainer additions.
 
 - Add the plugin list settings and picker settings in Spanish, German, French, Ukrainian, Dutch, Simplified Chinese and Russian: Untitled, Search icons, Choose an icon, Search camera views, Choose a camera view, the gone camera view hint, Drag to reorder, Done and Required, and the nine new plugin setting errors. The German, French, Ukrainian, Dutch, Simplified Chinese and Russian messages are maintainer additions.
