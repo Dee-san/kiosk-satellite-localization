@@ -4,6 +4,8 @@ Notable changes to Kiosk Satellite Localization are listed below, newest first. 
 
 ## History
 
+- Add Filter the speaker selection pill on the Now Playing page in Spanish, German, French, Ukrainian, Dutch, Simplified Chinese and Russian: the setting, its hint and All speakers, shown when no speaker is picked. The German, French, Ukrainian, Dutch, Simplified Chinese and Russian messages are maintainer additions.
+
 - Add the plugin list settings and picker settings in Spanish, German, French, Ukrainian, Dutch, Simplified Chinese and Russian: Untitled, Search icons, Choose an icon, Search camera views, Choose a camera view, the gone camera view hint, Drag to reorder, Done and Required, and the nine new plugin setting errors. The German, French, Ukrainian, Dutch, Simplified Chinese and Russian messages are maintainer additions.
 
 - Move the External Motion Sensor group from the Motion Sensor page to the Motion Detection page in every language, where the app now shows it. Its heading takes a new message id, and the previous one is removed from every language.
