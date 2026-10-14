@@ -4,6 +4,8 @@ Notable changes to Kiosk Satellite Localization are listed below, newest first. 
 
 ## History
 
+- Rename the URL Blacklist page to URL Filter and add its Allow only rules in Spanish, German, French, Ukrainian, Dutch, Simplified Chinese and Russian: the page name, hint and intro, the filter rule editor titles, the Action field with its Block and Allow only choices and help, the Show blocked page notice switch and the Not on the allowed pages notice. The URL Blacklist messages are removed from every language. The German, French, Ukrainian, Dutch, Simplified Chinese and Russian messages are maintainer additions.
+
 - Add Accept intercom call and Decline intercom call, two new gesture actions, and Hang up button while ringing on the Intercom page in Spanish, German, French, Ukrainian, Dutch, Simplified Chinese and Russian: the setting, its hint and its Accept, Decline and Ignore choices. The German, French, Ukrainian, Dutch, Simplified Chinese and Russian messages are maintainer additions.
 
 - Add the URL Blacklist page intro in Spanish, German, French, Ukrainian, Dutch, Simplified Chinese and Russian: its headline and the line under it. The empty list hint it replaces is removed from every language. The German, French, Ukrainian, Dutch, Simplified Chinese and Russian messages are maintainer additions.
