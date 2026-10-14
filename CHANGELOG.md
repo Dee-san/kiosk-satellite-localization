@@ -4,6 +4,8 @@ Notable changes to Kiosk Satellite Localization are listed below, newest first. 
 
 ## History
 
+- Add custom pages on other servers and Share Home Assistant connection on the Custom Pages page in Spanish, German, French, Ukrainian, Dutch, Simplified Chinese and Russian: the setting and its hint, the Path or URL field with its help and error, the empty list hint and the three errors for a page on another server. The previous Path field, its help and error and the empty list hint are removed from every language. The German, French, Ukrainian, Dutch, Simplified Chinese and Russian messages are maintainer additions.
+
 - Replace Horizontal mode on the Now Playing page with Layout mode in Spanish, German, French, Ukrainian, Dutch, Simplified Chinese and Russian: the setting, its hint and its Vertical, Horizontal and Album art only choices. Horizontal mode and its hint are removed from every language. The German, French, Ukrainian, Dutch, Simplified Chinese and Russian messages are maintainer additions.
 
 - Add Filter the speaker selection pill on the Now Playing page in Spanish, German, French, Ukrainian, Dutch, Simplified Chinese and Russian: the setting, its hint and All speakers, shown when no speaker is picked. The German, French, Ukrainian, Dutch, Simplified Chinese and Russian messages are maintainer additions.
