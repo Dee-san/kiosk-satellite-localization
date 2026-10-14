@@ -4,6 +4,8 @@ Notable changes to Kiosk Satellite Localization are listed below, newest first. 
 
 ## History
 
+- Add the URL Blacklist page intro in Spanish, German, French, Ukrainian, Dutch, Simplified Chinese and Russian: its headline and the line under it. The empty list hint it replaces is removed from every language. The German, French, Ukrainian, Dutch, Simplified Chinese and Russian messages are maintainer additions.
+
 - Add the URL Blacklist page under Web Browsing in Spanish, German, French, Ukrainian, Dutch, Simplified Chinese and Russian: its name and hint, the empty list hint, Add rule, the rule editor's titles, fields, help, choices and errors, and the Page blocked notice. The German, French, Ukrainian, Dutch, Simplified Chinese and Russian messages are maintainer additions.
 
 - Add Refresh the dashboard, a new gesture action, in Spanish, German, French, Ukrainian, Dutch, Simplified Chinese and Russian. The German, French, Ukrainian, Dutch, Simplified Chinese and Russian messages are maintainer additions.
