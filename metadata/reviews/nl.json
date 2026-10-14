@@ -23866,8 +23866,8 @@
     "ownerAuthored": true
   },
   "settingSendspinFullscreenLayoutDescription": {
-    "source": "42392f93f1061ecd156447075f86fc485591ab0aca3fadadd95cca30d449a122",
-    "translation": "0ba5423af552e0dc124edaa6eb4488035414376825b5008a69e804a90d51fd45",
+    "source": "3c5f58965e1d9c445605a4dfcf59ae11ba05619d8d8cc36b288b9d2c885936b6",
+    "translation": "48776ec1a386c0b89e6f306327592e839163318495fd8490560f1fbead0d067e",
     "author": "Xavier Larrea",
     "ownerAuthored": true
   },
@@ -23892,6 +23892,12 @@
   "mediaLayoutHorizontal": {
     "source": "ee6d2fdf10dfd9e397a2c379033b9aec5d8f99fe98909c347f7090ebadb048bb",
     "translation": "80f61382160fbc63b3844387aa8e4e8d63669edc6d588361be55ee9624b7f55d",
+    "author": "Xavier Larrea",
+    "ownerAuthored": true
+  },
+  "mediaLayoutArtOnly": {
+    "source": "e1548f9ce0d84ac1ce993b93ede3002448574fbfc59010ada0112972f43333d5",
+    "translation": "de1f43abce2ed4301aca5306d030d77b7da22a3792c5d669f171de3ba62a765a",
     "author": "Xavier Larrea",
     "ownerAuthored": true
   }

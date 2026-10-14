@@ -24287,8 +24287,8 @@
     "ownerAuthored": true
   },
   "settingSendspinFullscreenLayoutDescription": {
-    "source": "42392f93f1061ecd156447075f86fc485591ab0aca3fadadd95cca30d449a122",
-    "translation": "682b991bed1af6396a1e96d57d4a4abbda72e702066fa84dae19d78f65be0f93",
+    "source": "3c5f58965e1d9c445605a4dfcf59ae11ba05619d8d8cc36b288b9d2c885936b6",
+    "translation": "d03e12c81a57c1e3b183d8c86b4300df042145e687ba759b5e2c092046bcd3ff",
     "author": "Xavier Larrea",
     "ownerAuthored": true
   },
@@ -24307,6 +24307,12 @@
   "settingSendspinFullscreenLayoutTitle": {
     "source": "1adb88b61716aa0b04cd555023ed79ff7f123b19f65d7c0cb083e4fe261ea9c0",
     "translation": "228fa918113ee630b42d110372d3d8d4a2c507fe249f56a4ce5231ff18705e59",
+    "author": "Xavier Larrea",
+    "ownerAuthored": true
+  },
+  "mediaLayoutArtOnly": {
+    "source": "e1548f9ce0d84ac1ce993b93ede3002448574fbfc59010ada0112972f43333d5",
+    "translation": "c0ddeaa281555edb5e91c828d7648a41c12ad89b39f3df3e2665fe936e7e055d",
     "author": "Xavier Larrea",
     "ownerAuthored": true
   }

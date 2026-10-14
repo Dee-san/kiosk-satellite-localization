@@ -91,7 +91,7 @@
       ]
     }
   },
-  "settingSendspinFullscreenLayoutDescription": "How Now Playing arranges artwork, track details and controls. Horizontal splits them into left and right halves. Centered fills the screen with artwork and shows track details and controls over it, switching to Vertical while lyrics or the queue are open. Ignored while Now Playing is shown alongside a screensaver.",
+  "settingSendspinFullscreenLayoutDescription": "How Now Playing arranges artwork, track details and controls. Horizontal splits them into left and right halves. Album art only fills the screen with artwork and shows track details and controls for a few seconds after a tap, switching to Vertical while lyrics or the queue are open. Ignored while Now Playing is shown alongside a screensaver.",
   "@settingSendspinFullscreenLayoutDescription": {
     "context": "Settings > Media Player > Now Playing > User Interface",
     "description": "Help below this setting.",
@@ -130,10 +130,10 @@
       ]
     }
   },
-  "mediaLayoutCentered": "Centered",
-  "@mediaLayoutCentered": {
+  "mediaLayoutArtOnly": "Album art only",
+  "@mediaLayoutArtOnly": {
     "context": "Settings > Media Player > Now Playing > User Interface",
-    "description": "Option: artwork fills the screen in the center, with track details and controls drawn over it.",
+    "description": "Option: only the artwork shows, centered and filling the screen. Track details and controls appear over it for a few seconds after a tap.",
     "x-locations": {
       "device": [
         "Settings > Media Player > Now Playing > User Interface"
