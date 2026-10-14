@@ -4,6 +4,8 @@ Notable changes to Kiosk Satellite Localization are listed below, newest first. 
 
 ## History
 
+- Add the URL Blacklist page under Web Browsing in Spanish, German, French, Ukrainian, Dutch, Simplified Chinese and Russian: its name and hint, the empty list hint, Add rule, the rule editor's titles, fields, help, choices and errors, and the Page blocked notice. The German, French, Ukrainian, Dutch, Simplified Chinese and Russian messages are maintainer additions.
+
 - Add Refresh the dashboard, a new gesture action, in Spanish, German, French, Ukrainian, Dutch, Simplified Chinese and Russian. The German, French, Ukrainian, Dutch, Simplified Chinese and Russian messages are maintainer additions.
 
 - Add custom pages on other servers and Share Home Assistant connection on the Custom Pages page in Spanish, German, French, Ukrainian, Dutch, Simplified Chinese and Russian: the setting and its hint, the Path or URL field with its help and error, the empty list hint and the three errors for a page on another server. The previous Path field, its help and error and the empty list hint are removed from every language. The German, French, Ukrainian, Dutch, Simplified Chinese and Russian messages are maintainer additions.
