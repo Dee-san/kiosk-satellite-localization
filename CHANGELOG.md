@@ -4,6 +4,8 @@ Notable changes to Kiosk Satellite Localization are listed below, newest first. 
 
 ## History
 
+- Add a volume for each Voice Satellite chime on the Chimes page in Spanish, German, French, Ukrainian, Dutch, Simplified Chinese and Russian: the wake, done, error, timer and announcement sound volumes and their shared hint. The German, French, Ukrainian, Dutch, Simplified Chinese and Russian messages are maintainer additions.
+
 - Add Show audio quality on the Now Playing page and its audio quality pills in Spanish, German, French, Ukrainian, Dutch, Simplified Chinese and Russian: the setting and its hint, the Hi-Res, CD quality and Lossy badges and the bit depth, sample rate and bitrate labels. The German, French, Ukrainian, Dutch, Simplified Chinese and Russian messages are maintainer additions.
 
 - Rename the URL Blacklist page to URL Filter and add its Allow only rules in Spanish, German, French, Ukrainian, Dutch, Simplified Chinese and Russian: the page name, hint and intro, the filter rule editor titles, the Action field with its Block and Allow only choices and help, the Show blocked page notice switch and the Not on the allowed pages notice. The URL Blacklist messages are removed from every language. The German, French, Ukrainian, Dutch, Simplified Chinese and Russian messages are maintainer additions.
