@@ -4,6 +4,8 @@ Notable changes to Kiosk Satellite Localization are listed below, newest first. 
 
 ## History
 
+- Add plugins to Fleet Management profiles in Spanish, German, French, Ukrainian, Dutch, Simplified Chinese and Russian: the Plugins row, its dialog hint and empty state, the Plugin secrets credential, the synced plugins line on the Leader card and the could not install and reinstall to sync statuses. The German, French, Ukrainian, Dutch, Simplified Chinese and Russian messages are maintainer additions.
+
 - Add a volume for each Voice Satellite chime on the Chimes page in Spanish, German, French, Ukrainian, Dutch, Simplified Chinese and Russian: the wake, done, error, timer and announcement sound volumes and their shared hint. The German, French, Ukrainian, Dutch, Simplified Chinese and Russian messages are maintainer additions.
 
 - Add Show audio quality on the Now Playing page and its audio quality pills in Spanish, German, French, Ukrainian, Dutch, Simplified Chinese and Russian: the setting and its hint, the Hi-Res, CD quality and Lossy badges and the bit depth, sample rate and bitrate labels. The German, French, Ukrainian, Dutch, Simplified Chinese and Russian messages are maintainer additions.
