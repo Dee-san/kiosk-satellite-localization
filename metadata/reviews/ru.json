@@ -25497,5 +25497,17 @@
     "translation": "c48331473800fa806205a70805561291b23775aeb3bd29b6274e63c64772b8ae",
     "author": "Xavier Larrea",
     "ownerAuthored": true
+  },
+  "overviewInstallSilentHelp": {
+    "source": "38a2100da16765c4981d004cccbd6d169756c05ff0346413d606239fbcae7367",
+    "translation": "2473d4f96853dda1de9f4af0652c343e0273ab7e4442a9fa5c56ef857c6ceded",
+    "author": "Xavier Larrea",
+    "ownerAuthored": true
+  },
+  "overviewInstallHeadlessHelp": {
+    "source": "771450d7c07be8cf4f3aaf00a25d6e9b53ea8c2b441a711fc193b9c45495a182",
+    "translation": "d27d30f88f13acba3fbd69ebb4d407b51ab5d4bbe24078d7273a72371b2b7c11",
+    "author": "Xavier Larrea",
+    "ownerAuthored": true
   }
 }
