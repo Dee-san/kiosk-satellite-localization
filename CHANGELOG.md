@@ -4,6 +4,8 @@ Notable changes to Kiosk Satellite Localization are listed below, newest first. 
 
 ## History
 
+- Reword the Home Assistant add hints on the Voice Satellite page and in the setup wizard in Spanish, German, French, Ukrainian, Dutch, Simplified Chinese and Russian: both now say that Home Assistant asks for the new encryption key when it had the kiosk before. The previous hints are removed from every language. The German, French, Ukrainian, Dutch, Simplified Chinese and Russian messages are maintainer additions.
+
 - Add the This plugin needs a screen error in Spanish, German, French, Ukrainian, Dutch, Simplified Chinese and Russian, shown on a device without a screen for a plugin that only shows overlays or screensavers. The German, French, Ukrainian, Dutch, Simplified Chinese and Russian messages are maintainer additions.
 
 - Add headless mode, the Echo Dot's buttons and the LED Control page in Spanish, German, French, Ukrainian, Dutch, Simplified Chinese and Russian: the Headless mode status, the Audio, Media and other menu names a device without a screen shows, the adb grant instructions and the Hardware buttons row, the Button gesture with its press choices and the Start a voice command, Stop the voice assistant and Mute or unmute Voice Satellite actions, and every LED Control setting, group and effect. The German, French, Ukrainian, Dutch, Simplified Chinese and Russian messages are maintainer additions.
