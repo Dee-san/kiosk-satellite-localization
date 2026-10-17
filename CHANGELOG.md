@@ -4,6 +4,8 @@ Notable changes to Kiosk Satellite Localization are listed below, newest first. 
 
 ## History
 
+- Add the adb instruction for the storage grant on a device without a screen in Spanish, German, French, Ukrainian, Dutch, Simplified Chinese and Russian, shown on the Permissions page and in the File Manager. The German, French, Ukrainian, Dutch, Simplified Chinese and Russian messages are maintainer additions.
+
 - Add Arbitration offset on the Wake Word page in Spanish, German, French, Ukrainian, Dutch, Simplified Chinese and Russian: the setting and its hint. The German, French, Ukrainian, Dutch, Simplified Chinese and Russian messages are maintainer additions.
 
 - Reword the Home Assistant add hints on the Voice Satellite page and in the setup wizard in Spanish, German, French, Ukrainian, Dutch, Simplified Chinese and Russian: both now say that Home Assistant asks for the new encryption key when it had the kiosk before. The previous hints are removed from every language. The German, French, Ukrainian, Dutch, Simplified Chinese and Russian messages are maintainer additions.

@@ -25491,5 +25491,11 @@
     "translation": "fffe1f0c49e8f072aa82cd564af91df1df6f64f7d2015cfb7c6a35b141d9b285",
     "author": "Xavier Larrea",
     "ownerAuthored": true
+  },
+  "deviceHeadlessAdbStorage": {
+    "source": "07af859a5c79917fb33fe36aa5f85afa1f675c9b2ce6edfa9afc68b3cb340330",
+    "translation": "c48331473800fa806205a70805561291b23775aeb3bd29b6274e63c64772b8ae",
+    "author": "Xavier Larrea",
+    "ownerAuthored": true
   }
 }
