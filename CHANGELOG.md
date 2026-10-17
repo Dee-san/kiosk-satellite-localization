@@ -4,6 +4,8 @@ Notable changes to Kiosk Satellite Localization are listed below, newest first. 
 
 ## History
 
+- Add the hint for a button service that is switched on but has not started on a device without a screen in Spanish, German, French, Ukrainian, Dutch, Simplified Chinese and Russian. The German, French, Ukrainian, Dutch, Simplified Chinese and Russian messages are maintainer additions.
+
 - Add the Overview's update notes for a kiosk that installs without a confirmation and for one without a screen in Spanish, German, French, Ukrainian, Dutch, Simplified Chinese and Russian. The German, French, Ukrainian, Dutch, Simplified Chinese and Russian messages are maintainer additions.
 
 - Add the adb instruction for the storage grant on a device without a screen in Spanish, German, French, Ukrainian, Dutch, Simplified Chinese and Russian, shown on the Permissions page and in the File Manager. The German, French, Ukrainian, Dutch, Simplified Chinese and Russian messages are maintainer additions.
