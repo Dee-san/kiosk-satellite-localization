@@ -4,6 +4,8 @@ Notable changes to Kiosk Satellite Localization are listed below, newest first. 
 
 ## History
 
+- Add headless mode, the Echo Dot's buttons and the LED Control page in Spanish, German, French, Ukrainian, Dutch, Simplified Chinese and Russian: the Headless mode status, the Audio, Media and other menu names a device without a screen shows, the adb grant instructions and the Hardware buttons row, the Button gesture with its press choices and the Start a voice command, Stop the voice assistant and Mute or unmute Voice Satellite actions, and every LED Control setting, group and effect. The German, French, Ukrainian, Dutch, Simplified Chinese and Russian messages are maintainer additions.
+
 - Add plugins to Fleet Management profiles in Spanish, German, French, Ukrainian, Dutch, Simplified Chinese and Russian: the Plugins row, its dialog hint and empty state, the Plugin secrets credential, the synced plugins line on the Leader card and the could not install and reinstall to sync statuses. The German, French, Ukrainian, Dutch, Simplified Chinese and Russian messages are maintainer additions.
 
 - Add a volume for each Voice Satellite chime on the Chimes page in Spanish, German, French, Ukrainian, Dutch, Simplified Chinese and Russian: the wake, done, error, timer and announcement sound volumes and their shared hint. The German, French, Ukrainian, Dutch, Simplified Chinese and Russian messages are maintainer additions.
