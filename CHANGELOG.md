@@ -4,6 +4,8 @@ Notable changes to Kiosk Satellite Localization are listed below, newest first. 
 
 ## History
 
+- Add the AirPlay receiver and the Player row's notice in Spanish, German, French, Ukrainian, Dutch, Simplified Chinese and Russian: the AirPlay page's hint, its Enable AirPlay receiver, Speaker name, Follow the sender's volume, Audio sync offset and Let another sender take over settings, and the notice under Player that names the Sendspin player or the AirPlay receiver the pick turns off. The old Sendspin player offline notice is removed from every language. The German, French, Ukrainian, Dutch, Simplified Chinese and Russian messages are maintainer additions.
+
 - Add the hint for a button service that is switched on but has not started on a device without a screen in Spanish, German, French, Ukrainian, Dutch, Simplified Chinese and Russian. The German, French, Ukrainian, Dutch, Simplified Chinese and Russian messages are maintainer additions.
 
 - Add the Overview's update notes for a kiosk that installs without a confirmation and for one without a screen in Spanish, German, French, Ukrainian, Dutch, Simplified Chinese and Russian. The German, French, Ukrainian, Dutch, Simplified Chinese and Russian messages are maintainer additions.
