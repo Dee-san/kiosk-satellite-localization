@@ -4,6 +4,8 @@ Notable changes to Kiosk Satellite Localization are listed below, newest first. 
 
 ## History
 
+- Reword the Volume buttons control the player hint in Spanish, German, French, Ukrainian, Dutch, Simplified Chinese and Russian: it now says that the buttons change the group's volume while this device plays in a group. The previous hint is removed from every language. The German, French, Ukrainian, Dutch, Simplified Chinese and Russian messages are maintainer additions.
+
 - Add the Large room option for Clap detection in Spanish, German, French, Ukrainian, Dutch, Simplified Chinese and Russian, with a new description for the setting that covers it. The old Clap detection description is removed from every language. The German, French, Ukrainian, Dutch, Simplified Chinese and Russian messages are maintainer additions.
 
 - Add the AirPlay receiver and the Player row's notice in Spanish, German, French, Ukrainian, Dutch, Simplified Chinese and Russian: the AirPlay page's hint, its Enable AirPlay receiver, Speaker name, Follow the sender's volume, Audio sync offset and Let another sender take over settings, and the notice under Player that names the Sendspin player or the AirPlay receiver the pick turns off. The old Sendspin player offline notice is removed from every language. The German, French, Ukrainian, Dutch, Simplified Chinese and Russian messages are maintainer additions.
