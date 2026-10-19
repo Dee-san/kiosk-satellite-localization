@@ -4,6 +4,8 @@ Notable changes to Kiosk Satellite Localization are listed below, newest first. 
 
 ## History
 
+- Add Browse plugins and Community Plugins in Spanish, German, French, Ukrainian, Dutch, Simplified Chinese and Russian: the Browse plugins row and page with its search, Stars, Downloads, Active installs, Installed and Update labels, the Submit your plugin row, the messages for a list that cannot be reached or loaded, the Listed in Community Plugins and Not listed in Community Plugins lines of the install review and the remote admin prompt to turn on Enable Plugins for an install link. The German, French, Ukrainian, Dutch, Simplified Chinese and Russian messages are maintainer additions.
+
 - Add the plugin settings button and choice messages in Spanish, German, French, Ukrainian, Dutch, Simplified Chinese and Russian: the notice for a plugin that did not answer in time, the hint for a choices setting with nothing listed yet and the warning for a saved choice that is no longer listed. The German, French, Ukrainian, Dutch, Simplified Chinese and Russian messages are maintainer additions.
 
 - Add the Unavailable plugin skin label for the Skin row in Spanish, German, French, Ukrainian, Dutch, Simplified Chinese and Russian. It shows when Skin picks a plugin that is no longer installed. The German, French, Ukrainian, Dutch, Simplified Chinese and Russian messages are maintainer additions.
