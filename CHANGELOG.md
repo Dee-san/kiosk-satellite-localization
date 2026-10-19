@@ -4,6 +4,8 @@ Notable changes to Kiosk Satellite Localization are listed below, newest first. 
 
 ## History
 
+- Remove the GitHub did not return the release tag revision message from every language. The app no longer shows it.
+
 - Add the author line and the listed and not listed labels of the redesigned plugin install review in Spanish, German, French, Ukrainian, Dutch, Simplified Chinese and Russian, and remove the old Listed in Community Plugins and Not listed in Community Plugins lines from every language. The app no longer shows them. The German, French, Ukrainian, Dutch, Simplified Chinese and Russian messages are maintainer additions.
 
 - Remove the At most 8 plugins can be installed message from every language. The app no longer limits how many plugins can be installed.
