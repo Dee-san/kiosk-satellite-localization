@@ -4,6 +4,8 @@ Notable changes to Kiosk Satellite Localization are listed below, newest first. 
 
 ## History
 
+- Remove the At most 8 plugins can be installed message from every language. The app no longer limits how many plugins can be installed.
+
 - Add the plugin barcode scanner messages in Spanish, German, French, Ukrainian, Dutch, Simplified Chinese and Russian: the Scan a code heading, the Hold the code inside the frame help and the line naming the plugin that opened the scanner. The German, French, Ukrainian, Dutch, Simplified Chinese and Russian messages are maintainer additions.
 
 - Add the page size choice for Browse plugins, such as 10 per page, in Spanish, German, French, Ukrainian, Dutch, Simplified Chinese and Russian. The German, French, Ukrainian, Dutch, Simplified Chinese and Russian messages are maintainer additions.
