@@ -4,6 +4,8 @@ Notable changes to Kiosk Satellite Localization are listed below, newest first. 
 
 ## History
 
+- Add the plugin settings button and choice messages in Spanish, German, French, Ukrainian, Dutch, Simplified Chinese and Russian: the notice for a plugin that did not answer in time, the hint for a choices setting with nothing listed yet and the warning for a saved choice that is no longer listed. The German, French, Ukrainian, Dutch, Simplified Chinese and Russian messages are maintainer additions.
+
 - Add the Unavailable plugin skin label for the Skin row in Spanish, German, French, Ukrainian, Dutch, Simplified Chinese and Russian. It shows when Skin picks a plugin that is no longer installed. The German, French, Ukrainian, Dutch, Simplified Chinese and Russian messages are maintainer additions.
 
 - Add the Image URL screensaver and Show AM/PM in Spanish, German, French, Ukrainian, Dutch, Simplified Chinese and Russian: the Image URL mode, its page, hint and metadata group, the Image URL and Seconds per photo hints, the notices for a missing address and an image that would not load, and the Show AM/PM switch with its hint for the Clock screensaver, the Weather Mood clock and the Clock widget. The German, French, Ukrainian, Dutch, Simplified Chinese and Russian messages are maintainer additions.
