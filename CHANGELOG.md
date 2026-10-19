@@ -4,6 +4,8 @@ Notable changes to Kiosk Satellite Localization are listed below, newest first. 
 
 ## History
 
+- Add Most downloads and Plugins per page for Browse plugins in Spanish, German, French, Ukrainian, Dutch, Simplified Chinese and Russian, and remove Most installs from every language. The app no longer shows it. The German, French, Ukrainian, Dutch, Simplified Chinese and Russian messages are maintainer additions.
+
 - Add the Browse plugins pages and sorting in Spanish, German, French, Ukrainian, Dutch, Simplified Chinese and Russian: Previous page, Next page, the page count, Sort by and its Most installs, Most stars, Recently updated, Newest and Name orders. The German, French, Ukrainian, Dutch, Simplified Chinese and Russian messages are maintainer additions.
 
 - Add Browse plugins and Community Plugins in Spanish, German, French, Ukrainian, Dutch, Simplified Chinese and Russian: the Browse plugins row and page with its search, Stars, Downloads, Active installs, Installed and Update labels, the Submit your plugin row, the messages for a list that cannot be reached or loaded, the Listed in Community Plugins and Not listed in Community Plugins lines of the install review and the remote admin prompt to turn on Enable Plugins for an install link. The German, French, Ukrainian, Dutch, Simplified Chinese and Russian messages are maintainer additions.
