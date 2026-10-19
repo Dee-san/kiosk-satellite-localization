@@ -4,6 +4,8 @@ Notable changes to Kiosk Satellite Localization are listed below, newest first. 
 
 ## History
 
+- Add the Image URL screensaver and Show AM/PM in Spanish, German, French, Ukrainian, Dutch, Simplified Chinese and Russian: the Image URL mode, its page, hint and metadata group, the Image URL and Seconds per photo hints, the notices for a missing address and an image that would not load, and the Show AM/PM switch with its hint for the Clock screensaver, the Weather Mood clock and the Clock widget. The German, French, Ukrainian, Dutch, Simplified Chinese and Russian messages are maintainer additions.
+
 - Reword the Volume buttons control the player hint in Spanish, German, French, Ukrainian, Dutch, Simplified Chinese and Russian: it now says that the buttons change the group's volume while this device plays in a group. The previous hint is removed from every language. The German, French, Ukrainian, Dutch, Simplified Chinese and Russian messages are maintainer additions.
 
 - Add the Large room option for Clap detection in Spanish, German, French, Ukrainian, Dutch, Simplified Chinese and Russian, with a new description for the setting that covers it. The old Clap detection description is removed from every language. The German, French, Ukrainian, Dutch, Simplified Chinese and Russian messages are maintainer additions.
