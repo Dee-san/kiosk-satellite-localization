@@ -4,6 +4,8 @@ Notable changes to Kiosk Satellite Localization are listed below, newest first. 
 
 ## History
 
+- Add the Celestial screensaver's Location grant lines in Spanish, German, French, Ukrainian, Dutch, Simplified Chinese and Russian: the two lines of the Location row under Required system permissions while the GPS is the location source. The German, French, Ukrainian, Dutch, Simplified Chinese and Russian messages are maintainer additions.
+
 - Add Turn screen off at night after for the Clock screensaver in Spanish, German, French, Ukrainian, Dutch, Simplified Chinese and Russian: the slider in the Night mode group, its description and the warning shown before it powers the screen off, on the device and in the remote admin. The German, French, Ukrainian, Dutch, Simplified Chinese and Russian messages are maintainer additions.
 
 - Add the View ID label of the camera view editor in Spanish, German, French, Ukrainian, Dutch, Simplified Chinese and Russian, on the device and in the remote admin. The German, French, Ukrainian, Dutch, Simplified Chinese and Russian messages are maintainer additions.
