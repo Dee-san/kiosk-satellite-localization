@@ -4,6 +4,8 @@ Notable changes to Kiosk Satellite Localization are listed below, newest first. 
 
 ## History
 
+- Add the Celestial screensaver in Spanish, German, French, Ukrainian, Dutch, Simplified Chinese and Russian: the screensaver choice, the Celestial screensaver settings page with its Location, Landscape, Point at the sky, Sky, Labels and Controls settings and their choices, the Current location row and its messages, the prompt to choose a location, the Double tap to close and compass calibration hints, the names of the Sun, the Moon, the planets and the galaxies, nebulae and clusters on the sky, the compass points, the Moon phases and the Az, Alt, FOV and Now labels of the controls. The German, French, Ukrainian, Dutch, Simplified Chinese and Russian messages are maintainer additions.
+
 - Add Wait while media plays for the App Launcher in Spanish, German, French, Ukrainian, Dutch, Simplified Chinese and Russian: the setting, its description and the Notification access row of the App Launcher's Required system permissions group on the device and in the remote admin. The German, French, Ukrainian, Dutch, Simplified Chinese and Russian messages are maintainer additions.
 
 - Add Voice Calendar in Spanish, German, French, Ukrainian, Dutch, Simplified Chinese and Russian: the heading, the Manage the calendar using Voice Satellite row and its line about the calendar blueprint, on the device's and the remote admin's Calendar page. The German, French, Ukrainian, Dutch, Simplified Chinese and Russian messages are maintainer additions.
