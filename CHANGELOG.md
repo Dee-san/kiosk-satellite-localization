@@ -4,6 +4,8 @@ Notable changes to Kiosk Satellite Localization are listed below, newest first. 
 
 ## History
 
+- Add the calendar in Spanish, German, French, Ukrainian, Dutch, Simplified Chinese and Russian: the Day, Week, Month and Schedule views, the Today, Up next, Later today and Nothing planned labels, the event details, the Calendars card with Add a calendar and its name, color and person editor, the Calendar settings and their choices, the Calendar entry of the settings list and Allowed Actions, the Household settings group and the Open the calendar gesture action. The German, French, Ukrainian, Dutch, Simplified Chinese and Russian messages are maintainer additions.
+
 - Remove the GitHub did not return the release tag revision message from every language. The app no longer shows it.
 
 - Add the author line and the listed and not listed labels of the redesigned plugin install review in Spanish, German, French, Ukrainian, Dutch, Simplified Chinese and Russian, and remove the old Listed in Community Plugins and Not listed in Community Plugins lines from every language. The app no longer shows them. The German, French, Ukrainian, Dutch, Simplified Chinese and Russian messages are maintainer additions.
