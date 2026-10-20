@@ -4,6 +4,8 @@ Notable changes to Kiosk Satellite Localization are listed below, newest first. 
 
 ## History
 
+- Add the Calendar screensaver's settings in Spanish, German, French, Ukrainian, Dutch, Simplified Chinese and Russian: the Calendar screensaver heading and the Calendar view row with its description. The German, French, Ukrainian, Dutch, Simplified Chinese and Russian messages are maintainer additions.
+
 - Add the approximate location line of the Location row in Spanish, German, French, Ukrainian, Dutch, Simplified Chinese and Russian: it shows under Required system permissions on the GPS Sensor page and for the Celestial screensaver's GPS source when only approximate location is allowed. The German, French, Ukrainian, Dutch, Simplified Chinese and Russian messages are maintainer additions.
 
 - Add the Celestial screensaver's Location grant lines in Spanish, German, French, Ukrainian, Dutch, Simplified Chinese and Russian: the two lines of the Location row under Required system permissions while the GPS is the location source. The German, French, Ukrainian, Dutch, Simplified Chinese and Russian messages are maintainer additions.
