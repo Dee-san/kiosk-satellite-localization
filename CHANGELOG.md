@@ -4,6 +4,8 @@ Notable changes to Kiosk Satellite Localization are listed below, newest first. 
 
 ## History
 
+- Add Voice Calendar in Spanish, German, French, Ukrainian, Dutch, Simplified Chinese and Russian: the heading, the Manage the calendar using Voice Satellite row and its line about the calendar blueprint, on the device's and the remote admin's Calendar page. The German, French, Ukrainian, Dutch, Simplified Chinese and Russian messages are maintainer additions.
+
 - Add the calendar in Spanish, German, French, Ukrainian, Dutch, Simplified Chinese and Russian: the Day, Week, Month and Schedule views, the Today, Up next, Later today and Nothing planned labels, the event details, the Calendars card with Add a calendar and its name, color and person editor, the Calendar settings and their choices, the Calendar entry of the settings list and Allowed Actions, the Household settings group and the Open the calendar gesture action. The German, French, Ukrainian, Dutch, Simplified Chinese and Russian messages are maintainer additions.
 
 - Remove the GitHub did not return the release tag revision message from every language. The app no longer shows it.
