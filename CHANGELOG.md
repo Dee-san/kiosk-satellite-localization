@@ -4,6 +4,8 @@ Notable changes to Kiosk Satellite Localization are listed below, newest first. 
 
 ## History
 
+- Add Ingress page for apps in the dashboard picker in Spanish, German, French, Ukrainian, Dutch, Simplified Chinese and Russian: the second line of an app from the Home Assistant sidebar, such as Music Assistant, on the device and in the remote admin. The German, French, Ukrainian, Dutch, Simplified Chinese and Russian messages are maintainer additions.
+
 - Add Double tap to dismiss for the Home Assistant Dashboard screensaver in Spanish, German, French, Ukrainian, Dutch, Simplified Chinese and Russian: the switch in the Home Assistant Dashboard screensaver group and its description, on the device and in the remote admin. The German, French, Ukrainian, Dutch, Simplified Chinese and Russian messages are maintainer additions.
 
 - Add Wake word language for Amazon's wake word engine in Spanish, German, French, Ukrainian, Dutch, Simplified Chinese and Russian: the row under Wake word engine on the Echo Dot image with its description and its Kiosk Satellite's language choice, on the device and in the remote admin. The German, French, Ukrainian, Dutch, Simplified Chinese and Russian messages are maintainer additions.
