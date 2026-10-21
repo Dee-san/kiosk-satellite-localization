@@ -4,6 +4,8 @@ Notable changes to Kiosk Satellite Localization are listed below, newest first. 
 
 ## History
 
+- Add the Hand Clock style for the Clock screensaver in Spanish, German, French, Ukrainian, Dutch, Simplified Chinese and Russian: its name in the Style picker and its Numbers, Show seconds hand, Clock color and Background color rows with their descriptions and choices, on the device and in the remote admin. The German, French, Ukrainian, Dutch, Simplified Chinese and Russian messages are maintainer additions.
+
 - Add Full screen in Spanish, German, French, Ukrainian, Dutch, Simplified Chinese and Russian: the switch in the Screen group of Screen & Audio and its description, on the device and in the remote admin. The German, French, Ukrainian, Dutch, Simplified Chinese and Russian messages are maintainer additions.
 
 - Add Ingress page for apps in the dashboard picker in Spanish, German, French, Ukrainian, Dutch, Simplified Chinese and Russian: the second line of an app from the Home Assistant sidebar, such as Music Assistant, on the device and in the remote admin. The German, French, Ukrainian, Dutch, Simplified Chinese and Russian messages are maintainer additions.
