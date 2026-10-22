@@ -4,6 +4,8 @@ Notable changes to Kiosk Satellite Localization are listed below, newest first. 
 
 ## History
 
+- Add ONVIF motion events in Spanish, German, French, Ukrainian, Dutch, Simplified Chinese and Russian: the Motion Events group on the RTSP & ONVIF Streaming page with its Send motion events and Motion source rows, the three motion sources and the notes that say which sensor to turn on, on the device and in the remote admin. The German, French, Ukrainian, Dutch, Simplified Chinese and Russian messages are maintainer additions.
+
 - Add CPU clock in Spanish, German, French, Ukrainian, Dutch, Simplified Chinese and Russian: the row on the Hardware page of the remote admin. The German, French, Ukrainian, Dutch, Simplified Chinese and Russian messages are maintainer additions.
 
 - Add Battery temperature in Spanish, German, French, Ukrainian, Dutch, Simplified Chinese and Russian: the row on the Hardware page of the remote admin. The German, French, Ukrainian, Dutch, Simplified Chinese and Russian messages are maintainer additions.
