@@ -4,6 +4,8 @@ Notable changes to Kiosk Satellite Localization are listed below, newest first. 
 
 ## History
 
+- Add Assistant 1 skin and Assistant 2 skin in Spanish, German, French, Ukrainian, Dutch, Simplified Chinese and Russian: the two rows on the Appearance page of Voice Satellite that replace Skin on the native runtime, and their descriptions, on the device and in the remote admin. The German, French, Ukrainian, Dutch, Simplified Chinese and Russian messages are maintainer additions.
+
 - Add System updates in Spanish, German, French, Ukrainian, Dutch, Simplified Chinese and Russian: the System group on the About page of the remote admin with its ROM version row, the Verifying and Installing labels and the install note, and the System update available item under Needs attention on the Overview. The German, French, Ukrainian, Dutch, Simplified Chinese and Russian messages are maintainer additions.
 
 - Add Manage music using Voice Satellite in Spanish, German, French, Ukrainian, Dutch, Simplified Chinese and Russian: the Voice Control group on the Music Library page of Media Player with its row and description, on the device and in the remote admin. The German, French, Ukrainian, Dutch, Simplified Chinese and Russian messages are maintainer additions.
