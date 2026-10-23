@@ -4,6 +4,8 @@ Notable changes to Kiosk Satellite Localization are listed below, newest first. 
 
 ## History
 
+- Add Music Library in Spanish, German, French, Ukrainian, Dutch, Simplified Chinese and Russian: the library's pages, source and speaker pickers, play menu, messages and Speakers sheet, its kiosk menu entry and Allowed Actions switch, and the Source, Show in the kiosk menu and Show on Now Playing rows on the Music Library page of Media Player, on the device and in the remote admin. The German, French, Ukrainian, Dutch, Simplified Chinese and Russian messages are maintainer additions.
+
 - Add Show over lock screen in Spanish, German, French, Ukrainian, Dutch, Simplified Chinese and Russian: the switch in the Screen group of Screen & Audio and its description, on the device and in the remote admin. The German, French, Ukrainian, Dutch, Simplified Chinese and Russian messages are maintainer additions.
 
 - Replace Full screen with Hide status bar and Hide navigation bar in Spanish, German, French, Ukrainian, Dutch, Simplified Chinese and Russian: the two switches in the Screen group of Screen & Audio and their descriptions, on the device and in the remote admin. Remove Full screen and its description from every language. The app no longer shows them. The German, French, Ukrainian, Dutch, Simplified Chinese and Russian messages are maintainer additions.
