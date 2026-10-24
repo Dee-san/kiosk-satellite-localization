@@ -4,6 +4,8 @@ Notable changes to Kiosk Satellite Localization are listed below, newest first. 
 
 ## History
 
+- Add Fine-tune sensitivity in Spanish, German, French, Ukrainian, Dutch, Simplified Chinese and Russian: the slider below Wake word sensitivity on the Wake Word page of Voice Satellite and its description, on the device and in the remote admin. The German, French, Ukrainian, Dutch, Simplified Chinese and Russian messages are maintainer additions.
+
 - Add Talk over sensitivity in Spanish, German, French, Ukrainian, Dutch, Simplified Chinese and Russian: the slider below Talk over answers on the Realtime page of Voice Satellite and its description, on the device and in the remote admin. The German, French, Ukrainian, Dutch, Simplified Chinese and Russian messages are maintainer additions.
 
 - Add the Text scale description for the Music Library in Spanish, German, French, Ukrainian, Dutch, Simplified Chinese and Russian: the row in the User Interface group on the Music Library page of Media Player, on the device and in the remote admin. The German, French, Ukrainian, Dutch, Simplified Chinese and Russian messages are maintainer additions.
