@@ -30,6 +30,7 @@
   "libraryAlbumArtistsOnly": "Nur Albumkünstler",
   "libraryKindGenre": "Genre",
   "libraryBrowseByGenre": "Nach Genre stöbern",
+  "settingLibraryTextScaleDescription": "Größe der Titel, Namen und Beschriftungen in der Bibliothek.",
   "settingLibrarySquareArtworkTitle": "Quadratische Bilder",
   "settingLibrarySquareArtworkDescription": "Zeigt Künstler als quadratische Kacheln, wie Alben und Playlists.",
   "settingLibraryGridDensityTitle": "Rasterdichte",

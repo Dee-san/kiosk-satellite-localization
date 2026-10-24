@@ -301,6 +301,19 @@
       ]
     }
   },
+  "settingLibraryTextScaleDescription": "Size of the titles, names and labels in the library.",
+  "@settingLibraryTextScaleDescription": {
+    "context": "Music Library",
+    "description": "Setting description under Text scale, a percentage slider.",
+    "x-locations": {
+      "device": [
+        "Settings > Media Player > Music Library"
+      ],
+      "remoteAdmin": [
+        "Media Player > Music Library"
+      ]
+    }
+  },
   "settingLibrarySquareArtworkTitle": "Square artwork",
   "@settingLibrarySquareArtworkTitle": {
     "context": "Music Library",

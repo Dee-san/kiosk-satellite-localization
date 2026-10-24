@@ -30,6 +30,7 @@
   "libraryAlbumArtistsOnly": "仅专辑艺人",
   "libraryKindGenre": "流派",
   "libraryBrowseByGenre": "按流派浏览",
+  "settingLibraryTextScaleDescription": "音乐库中标题、名称和标签的大小。",
   "settingLibrarySquareArtworkTitle": "方形封面",
   "settingLibrarySquareArtworkDescription": "像专辑和播放列表一样，以方形卡片显示艺人。",
   "settingLibraryGridDensityTitle": "网格密度",

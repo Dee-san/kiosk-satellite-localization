@@ -30,6 +30,7 @@
   "libraryAlbumArtistsOnly": "Artistes d'album uniquement",
   "libraryKindGenre": "Genre",
   "libraryBrowseByGenre": "Parcourir par genre",
+  "settingLibraryTextScaleDescription": "Taille des titres, noms et libellés de la bibliothèque.",
   "settingLibrarySquareArtworkTitle": "Images carrées",
   "settingLibrarySquareArtworkDescription": "Affiche les artistes en vignettes carrées, comme les albums et les playlists.",
   "settingLibraryGridDensityTitle": "Densité de la grille",

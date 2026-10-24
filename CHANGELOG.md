@@ -4,6 +4,8 @@ Notable changes to Kiosk Satellite Localization are listed below, newest first. 
 
 ## History
 
+- Add the Text scale description for the Music Library in Spanish, German, French, Ukrainian, Dutch, Simplified Chinese and Russian: the row in the User Interface group on the Music Library page of Media Player, on the device and in the remote admin. The German, French, Ukrainian, Dutch, Simplified Chinese and Russian messages are maintainer additions.
+
 - Add Genre, Browse by genre, Square artwork and Grid density with its Comfortable, Standard and Compact options in Spanish, German, French, Ukrainian, Dutch, Simplified Chinese and Russian: the genre grid on the Music Library's Discover page and the User Interface group on the Music Library page of Media Player, on the device and in the remote admin. The German, French, Ukrainian, Dutch, Simplified Chinese and Russian messages are maintainer additions.
 
 - Add Sort, A to Z, Z to A, Most played and Album artists only in Spanish, German, French, Ukrainian, Dutch, Simplified Chinese and Russian: the sort button and menu of the Music Library's lists, with the album artist filter on Artists. The German, French, Ukrainian, Dutch, Simplified Chinese and Russian messages are maintainer additions.

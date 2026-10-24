@@ -23118,5 +23118,10 @@
     "source": "c479a73f02d42b20e20e0479a18b29efe43069bbe91617c6b72c944c915c2e08",
     "translation": "d9ff6117ae7cdc9af5c9c04fb0806121eb2023b68f47f7b9cfe453420e589ef1",
     "author": "Xavier Larrea"
+  },
+  "settingLibraryTextScaleDescription": {
+    "source": "15b530a341f3bdd0aff8231de0f869598203751fe4fbb503091845a672b8c524",
+    "translation": "a09c5c0720585d06c36f332426ee3afe291d26489821504e2c07399620a19384",
+    "author": "Xavier Larrea"
   }
 }

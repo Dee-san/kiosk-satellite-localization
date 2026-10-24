@@ -30,6 +30,7 @@
   "libraryAlbumArtistsOnly": "Только исполнители альбомов",
   "libraryKindGenre": "Жанр",
   "libraryBrowseByGenre": "Обзор по жанрам",
+  "settingLibraryTextScaleDescription": "Размер заголовков, имён и подписей в библиотеке.",
   "settingLibrarySquareArtworkTitle": "Квадратные обложки",
   "settingLibrarySquareArtworkDescription": "Показывает исполнителей квадратными плитками, как альбомы и плейлисты.",
   "settingLibraryGridDensityTitle": "Плотность сетки",

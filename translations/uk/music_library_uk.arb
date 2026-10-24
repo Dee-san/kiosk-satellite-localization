@@ -30,6 +30,7 @@
   "libraryAlbumArtistsOnly": "Лише виконавці альбомів",
   "libraryKindGenre": "Жанр",
   "libraryBrowseByGenre": "Огляд за жанрами",
+  "settingLibraryTextScaleDescription": "Розмір назв, імен і підписів у бібліотеці.",
   "settingLibrarySquareArtworkTitle": "Квадратні обкладинки",
   "settingLibrarySquareArtworkDescription": "Показує виконавців квадратними плитками, як альбоми та плейлисти.",
   "settingLibraryGridDensityTitle": "Щільність сітки",
