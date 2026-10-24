@@ -27743,5 +27743,35 @@
     "translation": "d7e146db68ed4039faea45754ae09a1dd6b3625a054b8fd9a83660f4d018ed5e",
     "author": "Xavier Larrea",
     "ownerAuthored": true
+  },
+  "libraryAlbumArtistsOnly": {
+    "source": "1a5da217c31c8ce4c794416248ed406623385b6cbd5831a25eb5ebc7ba4eb4df",
+    "translation": "7a458336945f9b798e8f14b48c798dade04baae2dc4cc2b73f83d9f234f295c4",
+    "author": "Xavier Larrea",
+    "ownerAuthored": true
+  },
+  "librarySortAToZ": {
+    "source": "c6294a3ab00f1624eabb3333ae617bf53c5fec06c64d05738e0a62cac652531e",
+    "translation": "ecdf674d6529dd17047a871c3c4684c1d4b0961d640b3025008a6dab4b45d1bf",
+    "author": "Xavier Larrea",
+    "ownerAuthored": true
+  },
+  "librarySortMostPlayed": {
+    "source": "c134206d11b2cf5848a90012123f0a474903de72de1885863f95e55c525ae307",
+    "translation": "3afbb22681f585194666bb7f01d10fde32349a429e12ac9504d2606b102ab87d",
+    "author": "Xavier Larrea",
+    "ownerAuthored": true
+  },
+  "librarySort": {
+    "source": "92b77e06fcbf0d7037b6b7cd82e3a0819c64c0354b5ec25d46b5da4a5aeaa315",
+    "translation": "aa6eafb5965e90fc3bbcd3b7189df1aab581c93b3ca7f785af32585608b95e7d",
+    "author": "Xavier Larrea",
+    "ownerAuthored": true
+  },
+  "librarySortZToA": {
+    "source": "7b532ed82bcbd245bb98deba66518b7c77d6dd20eec08a2ccede605ef1c25a0e",
+    "translation": "3d71f61c0a233f3d69f33f83f8cea301114ac362dfccb15d046ea4ab3d4be4a4",
+    "author": "Xavier Larrea",
+    "ownerAuthored": true
   }
 }

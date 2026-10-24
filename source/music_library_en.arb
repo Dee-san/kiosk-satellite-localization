@@ -231,6 +231,56 @@
       ]
     }
   },
+  "librarySort": "Sort",
+  "@librarySort": {
+    "context": "Music Library",
+    "description": "Tooltip of the button that opens the sort menu of a library list such as Albums or Playlists.",
+    "x-locations": {
+      "device": [
+        "Kiosk menu > Music Library"
+      ]
+    }
+  },
+  "librarySortAToZ": "A to Z",
+  "@librarySortAToZ": {
+    "context": "Music Library",
+    "description": "Sort menu option: alphabetical order by name.",
+    "x-locations": {
+      "device": [
+        "Kiosk menu > Music Library"
+      ]
+    }
+  },
+  "librarySortZToA": "Z to A",
+  "@librarySortZToA": {
+    "context": "Music Library",
+    "description": "Sort menu option: reverse alphabetical order by name.",
+    "x-locations": {
+      "device": [
+        "Kiosk menu > Music Library"
+      ]
+    }
+  },
+  "librarySortMostPlayed": "Most played",
+  "@librarySortMostPlayed": {
+    "context": "Music Library",
+    "description": "Sort menu option: the most played entries first.",
+    "x-locations": {
+      "device": [
+        "Kiosk menu > Music Library"
+      ]
+    }
+  },
+  "libraryAlbumArtistsOnly": "Album artists only",
+  "@libraryAlbumArtistsOnly": {
+    "context": "Music Library",
+    "description": "Checkable option in the Artists sort menu. Lists only artists credited on an album, leaving out artists who only appear on single tracks of compilations.",
+    "x-locations": {
+      "device": [
+        "Kiosk menu > Music Library"
+      ]
+    }
+  },
   "libraryMoreResults": "More results",
   "@libraryMoreResults": {
     "context": "Music Library",
