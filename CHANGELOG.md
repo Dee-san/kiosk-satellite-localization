@@ -4,6 +4,8 @@ Notable changes to Kiosk Satellite Localization are listed below, newest first. 
 
 ## History
 
+- Add Turn on the screen light and Turn off the screen light in Spanish, German, French, Ukrainian, Dutch, Simplified Chinese and Russian: the screen light button in the barcode scanner, used for the setup token scan and for plugin scans. The German, French, Ukrainian, Dutch, Simplified Chinese and Russian messages are maintainer additions.
+
 - Add Show system toast notifications in Spanish, German, French, Ukrainian, Dutch, Simplified Chinese and Russian: the row in the User Interface group on the Device page, its description, its All and None values and the names of the toasts it lists, on the device and in the remote admin. The German, French, Ukrainian, Dutch, Simplified Chinese and Russian messages are maintainer additions.
 
 - Add the Kiosk Satellite version a plugin needs in Spanish, German, French, Ukrainian, Dutch, Simplified Chinese and Russian: the error when installing or updating a plugin whose minAppVersion is newer than the kiosk, and the line on such a plugin in Browse plugins, on the device and in the remote admin. The German, French, Ukrainian, Dutch, Simplified Chinese and Russian messages are maintainer additions.
