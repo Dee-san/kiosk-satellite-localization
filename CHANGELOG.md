@@ -4,6 +4,8 @@ Notable changes to Kiosk Satellite Localization are listed below, newest first. 
 
 ## History
 
+- Reword Wait while media plays to Wait during media and calls in Spanish, German, French, Ukrainian, Dutch, Simplified Chinese and Russian: the switch under Return automatically on the App Launcher page and its description, which now also hold the return during a call in another app, on the device and in the remote admin. The previous messages are removed from every language. The German, French, Ukrainian, Dutch, Simplified Chinese and Russian messages are maintainer additions.
+
 - Add New image available in Spanish, German, French, Ukrainian, Dutch, Simplified Chinese and Russian: the row in the System group of the remote admin's About page and its Needs attention entry on the Overview, shown when a newer Echo Dot image has to be installed by hand, and its description. The German, French, Ukrainian, Dutch, Simplified Chinese and Russian messages are maintainer additions.
 
 - Add Turn on the screen light and Turn off the screen light in Spanish, German, French, Ukrainian, Dutch, Simplified Chinese and Russian: the screen light button in the barcode scanner, used for the setup token scan and for plugin scans. The German, French, Ukrainian, Dutch, Simplified Chinese and Russian messages are maintainer additions.
