@@ -4,6 +4,8 @@ Notable changes to Kiosk Satellite Localization are listed below, newest first. 
 
 ## History
 
+- Add Show system toast notifications in Spanish, German, French, Ukrainian, Dutch, Simplified Chinese and Russian: the row in the User Interface group on the Device page, its description, its All and None values and the names of the toasts it lists, on the device and in the remote admin. The German, French, Ukrainian, Dutch, Simplified Chinese and Russian messages are maintainer additions.
+
 - Add the Kiosk Satellite version a plugin needs in Spanish, German, French, Ukrainian, Dutch, Simplified Chinese and Russian: the error when installing or updating a plugin whose minAppVersion is newer than the kiosk, and the line on such a plugin in Browse plugins, on the device and in the remote admin. The German, French, Ukrainian, Dutch, Simplified Chinese and Russian messages are maintainer additions.
 
 - Add Fine-tune sensitivity in Spanish, German, French, Ukrainian, Dutch, Simplified Chinese and Russian: the slider below Wake word sensitivity on the Wake Word page of Voice Satellite and its description, on the device and in the remote admin. The German, French, Ukrainian, Dutch, Simplified Chinese and Russian messages are maintainer additions.
